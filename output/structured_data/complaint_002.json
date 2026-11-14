@@ -1,0 +1,12 @@
+{
+  "customer_name": "Marcus Vance",
+  "email": "m.vance@techcorp.io",
+  "phone_number": "555-019-3340",
+  "complaint_category": "Technical",
+  "issue_description": "Production environment unable to authenticate against v2 Payment Gateway API, receiving 503 Service Unavailable errors.",
+  "resolution_provided": "None yet",
+  "is_complaint": "Yes",
+  "escalation_required": "Yes",
+  "supporting_document_available": "Yes",
+  "overall_case_status": "Open"
+}

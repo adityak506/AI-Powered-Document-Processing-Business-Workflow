@@ -1,0 +1,12 @@
+{
+  "customer_name": "Marcus Vance",
+  "email": "m.vance@cloudscale-io.com",
+  "phone_number": "+1 (415) 890-4421",
+  "complaint_category": "Technical",
+  "issue_description": "Automated nightly database snapshots failing with a 504 Gateway Timeout error for four consecutive days, blocking compliance audit.",
+  "resolution_provided": "None yet.",
+  "is_complaint": "Yes",
+  "escalation_required": "Yes",
+  "supporting_document_available": "Yes",
+  "overall_case_status": "Open"
+}

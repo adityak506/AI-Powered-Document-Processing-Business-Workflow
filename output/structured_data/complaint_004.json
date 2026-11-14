@@ -1,0 +1,12 @@
+{
+  "customer_name": "David Morales",
+  "email": "dmorales@buildright.com",
+  "phone_number": "+1-555-017-6290",
+  "complaint_category": "Product Defect",
+  "issue_description": "The steam wand detached during normal operation on the third day of use, causing hot water to leak across my kitchen counter.",
+  "resolution_provided": "None yet. Customer is requesting a full replacement unit or a complete refund.",
+  "is_complaint": "Yes",
+  "escalation_required": "Yes",
+  "supporting_document_available": "Yes",
+  "overall_case_status": "Open"
+}

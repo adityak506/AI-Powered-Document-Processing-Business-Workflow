@@ -1,0 +1,12 @@
+{
+  "customer_name": "Priya Nair",
+  "email": "priya.nair92@example.org",
+  "phone_number": "null",
+  "complaint_category": "Technical",
+  "issue_description": "Inquiry about compatibility of SmartHome Hub v3 with Matter-over-Thread devices.",
+  "resolution_provided": "None yet",
+  "is_complaint": "No",
+  "escalation_required": "No",
+  "supporting_document_available": "No",
+  "overall_case_status": "Open"
+}

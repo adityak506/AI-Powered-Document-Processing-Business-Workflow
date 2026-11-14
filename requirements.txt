@@ -1,0 +1,11 @@
+# LLM SDK & Structured Output Validation
+openai>=1.40.0
+pydantic>=2.8.0
+
+# Document Ingestion (.pdf and .docx)
+pypdf>=4.3.0
+python-docx>=1.1.2
+
+# Environment Configuration & Data Aggregation
+python-dotenv>=1.0.1
+pandas>=2.2.2

@@ -1,0 +1,12 @@
+{
+  "customer_name": "Elena Rostova",
+  "email": "elena.r@example.net",
+  "phone_number": "+1-555-011-4099",
+  "complaint_category": "Delivery",
+  "issue_description": "My ergonomic office chair was guaranteed for 2-day express delivery, but tracking shows it has been stuck at the regional sorting facility for 5 days.",
+  "resolution_provided": "Support waived the $25.00 express shipping fee and issued a 15% discount code for future orders. Package is now out for delivery today.",
+  "is_complaint": "Yes",
+  "escalation_required": "No",
+  "supporting_document_available": "Yes",
+  "overall_case_status": "In Progress"
+}

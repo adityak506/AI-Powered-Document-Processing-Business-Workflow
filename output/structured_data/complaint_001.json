@@ -1,0 +1,12 @@
+{
+  "customer_name": "Sarah Jenkins",
+  "email": "sarah.jenkins@example.com",
+  "phone_number": "+1-555-014-8821",
+  "complaint_category": "Billing",
+  "issue_description": "Double-charged $49.99 for the CloudSync Pro plan on October 10th.",
+  "resolution_provided": "Refund for one of the charges initiated and pending.",
+  "is_complaint": "Yes",
+  "escalation_required": "No",
+  "supporting_document_available": "Yes",
+  "overall_case_status": "In Progress"
+}
