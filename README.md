@@ -242,5 +242,4 @@ Customer Support Team
 
 - **Scanned PDFs:** `pypdf` extracts embedded text only; image-only or scanned PDFs require an OCR preprocessing step (e.g., Tesseract or Vision LLM) to extract text.
 - **API Rate Limits:** Running high-concurrency batches across hundreds of files simultaneously would require rate-limiting/backoff retry logic (e.g., `tenacity`).
-- **Attachment Verification:** The system detects whether supporting documents are *mentioned* in the text rather than inspecting separate binary attachments.#   P r o j e c t 1 - A I - P o w e r e d D o c u m e n t P r o c e s s i n g - B u s i n e s s W o r k f l o w  
- 
+- **Attachment Verification:** The system detects whether supporting documents are *mentioned* in the text rather than inspecting separate binary attachments.
